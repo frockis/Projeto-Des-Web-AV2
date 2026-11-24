@@ -1,0 +1,6 @@
+node_modules/
+frontend/dist/
+backend/dados/*.sqlite
+backend/dados/*.sqlite-journal
+Contexto para Cursor AV1.pdf
+Contexto para Cursor AV2.pdf
